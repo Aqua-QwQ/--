@@ -9,7 +9,7 @@
 | 标题 | Attention Is All You Need |
 | 作者 | Ashish Vaswani et al. |
 | 发表信息 | NeurIPS 2017 |
-| 原文文件 | `PDF/Attention_Is_All_You_Need.pdf` |
+| 原文文件 | `../PDF/01_attention_is_all_you_need.pdf` |
 | 阅读日期 | [待补充] |
 | 研究主题 | Transformer；仅注意力的序列到序列建模 |
 | 一句话问题 | 如何在不使用循环或卷积的前提下，高效建模序列间依赖？ |
